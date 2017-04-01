@@ -1,2 +1,2 @@
-# simple-interest-python
-A simple python program to calculate simple interest. 
+# simple interest using python : project.
+A simple and basic python program to calculate simple interest. [School project]
